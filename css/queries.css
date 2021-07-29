@@ -1,0 +1,20 @@
+@media (min-width: 500px) {
+  .logo {
+    padding: 2rem 0;
+  }
+  .card {
+    width: 80%;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    border-radius: 2.5rem;
+    margin: 20px auto;
+  }
+  .rate-wrapper .btn-wrapper {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+  .output {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+}
