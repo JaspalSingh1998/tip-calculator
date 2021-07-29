@@ -1,3 +1,7 @@
+
+Project is live @[https://tip-calculator-alpha.vercel.app/]
+
+
 Frontend Mentor - Tip calculator app
 Design preview for the Tip calculator app coding challenge
 
